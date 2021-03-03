@@ -1,4 +1,4 @@
-# Kubernetes Certification Resources
+# Kubernetes Certification Resource
 
 Online resources that will help you prepare for taking the Kubernetes certifications exam.
 
